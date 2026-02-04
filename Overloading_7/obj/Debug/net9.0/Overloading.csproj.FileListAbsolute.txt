@@ -1,0 +1,14 @@
+E:\VS code\Overloading\bin\Debug\net9.0\Overloading.exe
+E:\VS code\Overloading\bin\Debug\net9.0\Overloading.deps.json
+E:\VS code\Overloading\bin\Debug\net9.0\Overloading.runtimeconfig.json
+E:\VS code\Overloading\bin\Debug\net9.0\Overloading.dll
+E:\VS code\Overloading\bin\Debug\net9.0\Overloading.pdb
+E:\VS code\Overloading\obj\Debug\net9.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code\Overloading\obj\Debug\net9.0\Overloading.AssemblyInfoInputs.cache
+E:\VS code\Overloading\obj\Debug\net9.0\Overloading.AssemblyInfo.cs
+E:\VS code\Overloading\obj\Debug\net9.0\Overloading.csproj.CoreCompileInputs.cache
+E:\VS code\Overloading\obj\Debug\net9.0\Overloading.dll
+E:\VS code\Overloading\obj\Debug\net9.0\refint\Overloading.dll
+E:\VS code\Overloading\obj\Debug\net9.0\Overloading.pdb
+E:\VS code\Overloading\obj\Debug\net9.0\Overloading.genruntimeconfig.cache
+E:\VS code\Overloading\obj\Debug\net9.0\ref\Overloading.dll
